@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A simple Date gem}
   spec.description   = %q{Updates the date in the view}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/jeremiahogutu/ogutu_view_tool.git"
   spec.license       = "MIT"
 
 
